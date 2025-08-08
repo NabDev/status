@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: NabBot Website
-    url: https://www.nabbot.xyz
+    url: https://nabbot.xyz
   - name: NabBot Docs
     url: https://docs.nabbot.xyz
 
