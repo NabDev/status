@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nabbot.xyz.ico",
     "slug": "nab-bot-website",
     "status": "up",
-    "uptime": "4.88%",
-    "uptimeDay": "4.88%",
-    "uptimeWeek": "4.88%",
-    "uptimeMonth": "4.88%",
-    "uptimeYear": "4.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 552,
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2025-08-08": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NabBot Docs",
