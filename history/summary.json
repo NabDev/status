@@ -1,22 +1,22 @@
 [
   {
     "name": "NabBot Website",
-    "url": "https://www.nabbot.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/www.nabbot.xyz.ico",
+    "url": "https://nabbot.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/nabbot.xyz.ico",
     "slug": "nab-bot-website",
-    "status": "down",
-    "uptime": "5.70%",
-    "uptimeDay": "5.70%",
-    "uptimeWeek": "5.70%",
-    "uptimeMonth": "5.70%",
-    "uptimeYear": "5.70%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "4.88%",
+    "uptimeDay": "4.88%",
+    "uptimeWeek": "4.88%",
+    "uptimeMonth": "4.88%",
+    "uptimeYear": "4.88%",
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-08-08": 0
+      "2025-08-08": 1
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   }
 ]
