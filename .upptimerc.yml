@@ -9,7 +9,6 @@ sites:
     url: https://docs.nabbot.xyz
   - name: NabBot API
     url: https://api.nabbot.xyz/healthcheck
-    method: HEAD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
