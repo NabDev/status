@@ -1,7 +1,7 @@
 url: https://docs.nabbot.xyz
-status: up
-code: 200
-responseTime: 616
-lastUpdated: 2025-08-22T14:35:32.095Z
+status: down
+code: 502
+responseTime: 412
+lastUpdated: 2025-08-22T15:27:33.628Z
 startTime: 2025-08-08T04:13:39.460Z
 generator: Upptime <https://github.com/upptime/upptime>
