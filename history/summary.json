@@ -22,18 +22,20 @@
     "url": "https://docs.nabbot.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/docs.nabbot.xyz.ico",
     "slug": "nab-bot-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 414,
-    "timeWeek": 423,
-    "timeMonth": 420,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "time": 415,
+    "timeDay": 376,
+    "timeWeek": 412,
+    "timeMonth": 415,
+    "timeYear": 415,
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "NabBot API",
